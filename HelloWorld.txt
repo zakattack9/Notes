@@ -1,0 +1,21 @@
+CLI - Command Line Interface: interaction with computer through lines 		  of texts and commands (black and white)
+GUI - Graphic User Iterface: user interface that interacts with 			  computer visually (colorful)
+
+3 LEVELS OF KNOWING:
+1. Knowing and Understanding
+2. Teaching and Reinforcing
+3. Grocking - understanding intuitively
+
+FILE STRUCTURE:
+Root Directory--->Files/Folders--->Sub Folder/Files
+
+
+BASIC COMMANDS FOR CLI
+
+cd.. or cd../  takes you up a directory
+cd /  takes you back to root folder
+ls  shows files within a directory
+mkdir {foldername}  (make directory) creates a named folder
+mkdir {foldername}/{sub-foldername}  creates a folder within folder
+touch {filename.extension}  creates a file
+touch {foldername}/{filename.extension}  creates a file within folder
