@@ -22,6 +22,5 @@ touch {foldername}/{filename.extension}  creates a file within folder
 
 git init  initializes a project
 git status  checks project status
-"clean"  no red in status
 git add {filename}  adds file to GitHub
 git commit -m '{description}'  adds description to file
