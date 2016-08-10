@@ -1,3 +1,4 @@
+TERMINOLOGY:
 CLI - Command Line Interface: interaction with computer through lines 		  of texts and commands (black and white)
 GUI - Graphic User Iterface: user interface that interacts with 			  computer visually (colorful)
 
@@ -10,8 +11,7 @@ FILE STRUCTURE:
 Root Directory--->Files/Folders--->Sub Folder/Files
 
 
-BASIC COMMANDS FOR CLI
-
+BASIC COMMANDS FOR CLI:
 cd.. or cd../  takes you up a directory
 cd /  takes you back to root folder
 ls  shows files within a directory
@@ -19,3 +19,9 @@ mkdir {foldername}  (make directory) creates a named folder
 mkdir {foldername}/{sub-foldername}  creates a folder within folder
 touch {filename.extension}  creates a file
 touch {foldername}/{filename.extension}  creates a file within folder
+
+git init  initializes a project
+git status  checks project status
+"clean"  no red in status
+git add {filename}  adds file to GitHub
+git commit -m '{description}'  adds description to file
