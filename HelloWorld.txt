@@ -1,6 +1,6 @@
 TERMINOLOGY:
-CLI - Command Line Interface: interaction with computer through lines 		  of texts and commands (black and white)
-GUI - Graphic User Iterface: user interface that interacts with 			  computer visually (colorful)
+CLI - Command Line Interface: interaction with computer through lines of texts and commands (black and white)
+GUI - Graphic User Iterface: user interface that interacts with computer visually (colorful)
 
 3 LEVELS OF KNOWING:
 1. Knowing and Understanding
@@ -23,4 +23,6 @@ touch {foldername}/{filename.extension}  creates a file within folder
 git init  initializes a project
 git status  checks project status
 git add {filename}  adds file to GitHub
-git commit -m '{description}'  adds description to file
+git commit -m '{description}'  adds to local GitHub and adds description
+git push  adds file to remote repository
+git add .
