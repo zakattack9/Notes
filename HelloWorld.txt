@@ -26,3 +26,42 @@ git add {filename}  adds file to GitHub
 git commit -m '{description}'  adds to local GitHub and adds description
 git push  adds file to remote repository
 git add .
+python -m SimpleHTTPServer
+
+PROGRAMMING LANGUAGE      MARKUP LANGUAGE
+-logical                  -HTML
+-functions                -puts stuff on screen
+-Javascript, python       -set of markup tags
+
+SHORTCUTS IN SUBLIME TEXT
+-ctrl + shift + D (copy)
+-ctrl + shift + uparrow (moves HIGHLIGHTED text)
+-use arrow by number to close divs
+-div.container + tab
+ 
+ HTML
+<!DOCTYPE html> what describes document
+<p> paragraph element
+<header> navigation logo
+<footer> copyright
+<div> block element
+<span> inline elements
+<a> anchor tag
+<img /> image tag (self closing tag)
+<link> link tag
+<!--{comment}-->
+<UL> un-ordered list
+<li> list
+<OL> ordered list
+<nav> navigation
+<a href=" "> links
+&amp; must be used when using & symbol in text
+# for ID, . for classes
+
+HTML STYLES
+<div class="container">
+<div class="content">
+<div class="article">
+<span class="highlight">
+<div id="first"> (allows more classes)
+
