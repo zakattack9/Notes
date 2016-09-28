@@ -65,3 +65,38 @@ HTML STYLES
 <span class="highlight">
 <div id="first"> (allows more classes)
 
+RESPONSIVE WEB DESIGN
+- also known as fluid design
+- building asite to respond to multiple sizes also known as fluid design.
+- examples are, Google, Facebook
+
+GRID BASED WEB DESIGN
+- web design with grid content
+- information and links withing in grids that can be clicked on 
+- some examples, Tumbler, Pintrest
+
+MEDIA QUERIES
+- tells your design in CSS to change according to a certain condition
+- break points in CSS that tell your app to change according to screensize
+- for example, if screen size shrinks below 500px, the background-color will automatically change blue
+- @media <--command in CSS for media query
+- usually uses a guidline between 600px and 650px
+
+EM
+- adjusts to the size of its parent
+- default font-size in css is 16px
+- good for responsive design because everything will adjust to a smaller or larger size
+- if a child is set at .5em and its parent size is 16px, than .5em is actually 10px (16 x .5) = 10px
+- to convert px to em multiply it by 1.5
+
+PSEUDO CLASS SELCTORS
+- defines a special state
+- common examples are, :hover, :after, :focus, :link,
+
+MOBILE DESIGN
+- a web application made to work for mobile
+- "mobile first" scales web application to mobile first and then expands to desktop
+- one example is Instagram uses media queries and is simple to use
+
+SPECIFICITY
+- the more specific you are in CSS the more it knows which element to apply the command to
