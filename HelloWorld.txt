@@ -67,7 +67,7 @@ HTML STYLES
 
 RESPONSIVE WEB DESIGN
 - also known as fluid design
-- building asite to respond to multiple sizes also known as fluid design.
+- building a site to respond to multiple sizes
 - examples are, Google, Facebook
 
 GRID BASED WEB DESIGN
