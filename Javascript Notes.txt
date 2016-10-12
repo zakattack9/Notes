@@ -1,0 +1,44 @@
+http://slides.com/sgnl/js-basics#/
+
+JavaScript
+-to define a new variable, use the keyword var
+-using an equal sign with var sets a value for it
+
+Data Types:
+-string: exact value
+-number: for numbers
+-boolean: true (1) or false (0)
+-null: nothing, empty
+-undefined: variable doesn't exist
+
+Arrays:
+-zero-based index storage, used in between brackets
+-can store any multiple types of data inside it
+-each value separated by comma, first value is 0 and then increases from there on
+
+Javascript Operators:
+-for comparason and logic;
+>= greater than or equal to
+<= less than or equal to
+== equality
+=== strict equality
+!= inequality
+!== strict inequality
+&& logical AND
+|| logical OR
+----------------------------
+= is for assignment
+== and === are for comparing equality
+
+Functions:
+-defines a block statement to execute
+-when it is invoked, it executes the function
+
+Arguments and Parameters:
+-parameter defined to live within scope of function
+-scope is the range in JavaScript within function
+
+Objects:
+-collection of key value pairs, defined by {}
+-key valued pairs seperated by commas
+-to access properties use dot notation
