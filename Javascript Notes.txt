@@ -1,11 +1,12 @@
 http://slides.com/sgnl/js-basics#/
+http://slides.com/ifang/javascriptbasics
 
 JavaScript
 -to define a new variable, use the keyword var
 -using an equal sign with var sets a value for it
 
 Data Types:
--string: exact value
+-string: exact value; must be in quotes
 -number: for numbers
 -boolean: true (1) or false (0)
 -null: nothing, empty
@@ -42,3 +43,11 @@ Objects:
 -collection of key value pairs, defined by {}
 -key valued pairs seperated by commas
 -to access properties use dot notation
+
+Console Log:
+-written as console.log()
+-anything within the parenthesis is displayed on screen
+-variable names can also be put within the () too
+-console.log() determines what is shown on screen
+-when using variable names in console log, they do not need quotes (strings)
+-can put functions within (), ex. 12-2 will be displayed as 10 on screen; uses PEMDAS
