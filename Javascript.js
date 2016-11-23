@@ -35,3 +35,31 @@ function createGreeting (name, age) { //again, name & age are paramaters
 }
 
 createGreeting('Zak', 16)
+
+Conditional Statements:
+var degreeOutside = 70;
+var numberOfClouds = 50;
+
+function isItRaining(degreeOutside, numberOfClouds){
+  if(degreeOutside > 70 && numberOfClouds > 50){
+    return console.log("it's raining outside!")
+  }
+}
+
+isItRaining(50, 20)
+
+//side note on JavaScript loops
+/* 
+
+var people = ["John", "Jim", "Jill"];
+
+for(var i = 0; i < people.length; i++){
+  console.log("I am " + people[i]);
+}
+
+This Java Loop will give an out put of all the people's names because it looped each of the 
+variables from the array. ALso since it is i < people.legnth, it starts at the left at runs 
+through all the options going to the right. If it was i > people.legnth, it would start at the 
+last variable of the array and continue on above it, therefore, this function would have no output.
+
+*/
